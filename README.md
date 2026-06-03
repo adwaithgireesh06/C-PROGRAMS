@@ -19,6 +19,14 @@ This repository is a collection of C programs designed to solve common problems 
 | Program Number | File Name | Description |
 |---------------|----------|-------------|
 | P-01 | [`Hello_World.c`](https://github.com/adwaithgireesh06/C-PROGRAMS/blob/663d4a71820d74fa81d40398b939b061f188e83f/P-01%20Hello%20World.c) | Simple Hello World program |
-| P-02 | [`Format_specifier.c`]() | Demonstrates format specifier |
-| P-03 | [`Cube.c`]() | Finds the cube of a number |
-| P-04 | [`Greater.c`]() | Finds the greatest among 2 numbers |
+| P-02 | [`Format_specifier.c`](https://github.com/adwaithgireesh06/C-PROGRAMS/blob/8d832a67a7349d0e4185ee2884973fcf296f279c/P-02%20format%20specifier.c) | Demonstrates format specifier |
+| P-03 | [`Cube.c`](https://github.com/adwaithgireesh06/C-PROGRAMS/blob/8d832a67a7349d0e4185ee2884973fcf296f279c/P-03%20cube.c) | Finds the cube of a number |
+| P-04 | [`Greater.c`](https://github.com/adwaithgireesh06/C-PROGRAMS/blob/8d832a67a7349d0e4185ee2884973fcf296f279c/P-04%20greater.c) | Finds the greatest among 2 numbers |
+
+[⬆️ back to top](#c-program-files)
+
+## ⭐ Show Your Support  
+
+If you find this repository useful, please consider starring ⭐ the repo to show your support!
+
+[⬆️ back to top](#c-program-files)
