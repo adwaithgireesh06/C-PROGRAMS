@@ -23,10 +23,9 @@ This repository is a collection of C programs designed to solve common problems 
 | P-03 | [`Cube.c`](https://github.com/adwaithgireesh06/C-PROGRAMS/blob/8d832a67a7349d0e4185ee2884973fcf296f279c/P-03%20cube.c) | Finds the cube of a number |
 | P-04 | [`Greater.c`](https://github.com/adwaithgireesh06/C-PROGRAMS/blob/8d832a67a7349d0e4185ee2884973fcf296f279c/P-04%20greater.c) | Finds the greatest among 2 numbers |
 
-[⬆️ back to top](#c-program-files)
 
 ## ⭐ Show Your Support  
 
 If you find this repository useful, please consider starring ⭐ the repo to show your support!
 
-[⬆️ back to top](#c-program-files)
+
