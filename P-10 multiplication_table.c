@@ -3,11 +3,9 @@ int main() {
     int tables_num;
     printf("Enter a number to display multiplication tables upto that number: ");
     scanf("%d",&tables_num);
-    
     int limit;
     printf("Enter the limit of all tables: ");
     scanf("%d",&limit);
-    
     for (int i=1; i<=tables_num; i++) {
         printf("Multiplication table of %d:\n",i);
         for (int k=1; k<=limit; k++) {
