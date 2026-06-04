@@ -22,7 +22,7 @@ This repository is a collection of C programs designed to solve common problems 
 | P-02 | [`Format_specifier.c`](https://github.com/adwaithgireesh06/C-PROGRAMS/blob/8d832a67a7349d0e4185ee2884973fcf296f279c/P-02%20format%20specifier.c) | Demonstrates format specifier |
 | P-03 | [`Cube.c`](https://github.com/adwaithgireesh06/C-PROGRAMS/blob/8d832a67a7349d0e4185ee2884973fcf296f279c/P-03%20cube.c) | Finds the cube of a number |
 | P-04 | [`Greater.c`](https://github.com/adwaithgireesh06/C-PROGRAMS/blob/8d832a67a7349d0e4185ee2884973fcf296f279c/P-04%20greater.c) | Finds the greatest among 2 numbers |
-
+| P-05 | [`Largest_of_3_numbers.c`]() | Finds the largest among 3 numbers |
 
 ## ⭐ Show Your Support  
 
